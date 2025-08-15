@@ -1,0 +1,7 @@
+
+                    company: Trigyn Technologies Ltd
+                    skills: python proficiency, web frameworks, api development, front end integration, css, html5, rest api, bootstrap, ajax, javascript, docker, security, git, oops, mongodb, dhtml
+                    experience: 3 - 6  Years
+                    posting time: 7 days ago
+                    more info: https://m.timesjobs.com/mobile/job-detail/python-developer-trigyn-technologies-ltd-delhi-3-to-6-yrs-jobid-xsjuia7bgaJzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+                    

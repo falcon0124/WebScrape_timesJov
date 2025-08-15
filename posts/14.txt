@@ -1,0 +1,7 @@
+
+                    company: WBC Software Lab
+                    skills: python, git, rest api, linux, mobile, mongodb, docker
+                    experience: 2 - 5  Years
+                    posting time: 11 days ago
+                    more info: https://m.timesjobs.com/mobile/job-detail/python-developer-wbc-software-lab-chennai-2-to-5-yrs-jobid-Qy1VutIzCqxzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+                    

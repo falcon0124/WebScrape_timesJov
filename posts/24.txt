@@ -1,0 +1,7 @@
+
+                    company: SYNECHRON
+                    skills: python core, sql alchemy / orm, multiprocessing / multithreading, artificial intelligence, shell scripting, rest, gtp, mobile
+                    experience: 7 - 10  Years
+                    posting time: 16 days ago
+                    more info: https://m.timesjobs.com/mobile/job-detail/python-developer-synechron-bengaluru-bangalore-7-to-10-yrs-jobid-pGy0fZn05oRzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+                    

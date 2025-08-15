@@ -1,0 +1,7 @@
+
+                    company: Movate technologies limited
+                    skills: data conversion, nosql databases, data lake construction, cost optimization, python programming, delta
+                    experience: 5 - 8  Years
+                    posting time: 7 days ago
+                    more info: https://m.timesjobs.com/mobile/job-detail/python-developer-movate-technologies-limited-chennai-5-to-8-yrs-jobid-UWJWdj7r__PLUS__TRzpSvf__PLUS__uAgZw==&bc=+&sequence=24
+                    

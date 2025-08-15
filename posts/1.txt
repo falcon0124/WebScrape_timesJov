@@ -1,0 +1,7 @@
+
+                    company: IQVIA
+                    skills: full stack development, python programming, scalable architecture, data processing pipelines, cloud platforms, c, orchestration, docker, sql, security, git, system architecture
+                    experience: 3 - 6  Years
+                    posting time: 2 days ago
+                    more info: https://m.timesjobs.com/mobile/job-detail/python-developer-iqvia-bengaluru-bangalore-3-to-6-yrs-jobid-2DFKS0eGVfxzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+                    
